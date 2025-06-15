@@ -1,4 +1,4 @@
-# 🎥 CineInsight
+#  CineInsight
 
 **CineInsight** offers a curated and immersive movie discovery experience by scraping data from IMDB to deliver intelligent recommendations, detailed reviews, and personalized movie lists—all in one sleek platform.
 
@@ -106,4 +106,8 @@ CineInsight redefines how users engage with cinema by:
    php -S localhost:8000
     http://localhost:8000/sign_up.php
 
+# Contribution
 
+	⁠By Group 4(JuniHers)
+
+•⁠  ⁠Ramanu Rishita -       [f1nd1ng](https://github.com/f1nd1ng)
